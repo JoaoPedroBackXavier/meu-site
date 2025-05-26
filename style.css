@@ -3,15 +3,15 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background: #f4f4f4;
-    color: #333;
+    background: #646464;
+    color: #ffffff;
   }
   
   .header {
     display: flex;
     align-items: center;
     padding: 20px;
-    background: #fff;
+    background: #b6b6b6;
   }
   
   .profile-pic {
@@ -28,7 +28,7 @@ body {
   }
   
   .skills {
-    background: #eaeaea;
+    background: #5a5a5a;
     padding: 20px;
     text-align: center;
   }
@@ -40,7 +40,7 @@ body {
   
   .skills li {
     display: inline-block;
-    background: #007BFF;
+    background: #1686ff;
     color: #fff;
     padding: 8px 15px;
     margin: 5px;
@@ -54,12 +54,12 @@ body {
   
   .card {
     display: inline-block;
-    background: #fff;
+    background: #000000;
     padding: 15px;
     margin: 10px;
     border-radius: 10px;
     width: 250px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1);
   }
   
   .card img {
@@ -82,7 +82,7 @@ body {
   }
   
   .whatsapp-button {
-    background-color: #25D366;
+    background-color: #23b358;
     color: white;
     padding: 12px 25px;
     text-decoration: none;
